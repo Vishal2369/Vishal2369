@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal
-- 👀 I’m interested in Web Dev, movies, e-sports and anime.
+- 👀 I’m interested in.
 
 
 <!---
